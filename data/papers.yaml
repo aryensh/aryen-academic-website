@@ -1,0 +1,75 @@
+# Working Papers
+- title: "The Housing Impacts of the Community Preservation Act"
+  authors: ["Aryen Shrestha"]
+  year: 2025
+  status: "working paper"
+  venue: ""
+  pdf: ""
+  link: ""
+  abstract: "I examine the impact of local, supply-side policies on housing outcomes, including the supply and price of low-income housing and the racial composition of towns and cities. Specifically, I investigate Massachusetts' Community Preservation Act (CPA), which allows municipalities to locally generate funds through a surcharge on property taxes, with a level of matching funds from the state government, which can then be spent on affordable housing, open land preservation, recreation, and historic conservation. Exploiting variation in adoption timing since the policy's introduction in 2000, I utilize stacked event study models to identify the causal effects of CPA adoption. My analysis indicates that while the total number of new units does not increase following CPA adoption, production of housing shifts towards higher-density and rent-stabilized units. These effects are magnified in rural and economically-disadvantaged municipalities. I find that CPA adoption also leads to an increase in the white and Asian population share, with a corresponding decrease in the Latino and Black population share. Overall, this study provides insights into the benefits and costs of policies that are adopted and implemented entirely at the municipal level."
+  job_market_paper: false
+  type: "working-paper"
+
+# Works in Progress
+- title: "The Building Boom: Postwar School Construction and the Rise of Modern American Education"
+  authors: ["Elizabeth U. Cascio", "Ethan G. Lewis", "Aryen Shrestha"]
+  year: ""
+  status: "work in progress"
+  venue: ""
+  pdf: ""
+  link: ""
+  abstract: "We examine whether massive postwar school construction in the American South raised educational attainment, particularly for Black students. Using data from newly digitized state administrative reports and variation from state and locally financed school facilities programs in three southern states, we find suggestive evidence that Black school construction facilitated on-time Black continuation from first to second grade. Black children with full exposure to state-financed school building programs saw improvements in adult educational attainment."
+  job_market_paper: false
+  type: "work-in-progress"
+
+- title: "Federal Immigration Enforcement and Local Immigration Sentiment"
+  authors: ["Aryen Shrestha", "Harufumi Nakazawa", "Ariana Rodriguez"]
+  year: ""
+  status: "work in progress"
+  venue: ""
+  pdf: ""
+  link: ""
+  abstract: "We explore the political consequences of bringing localities in contact with federal immigration policies by exploiting openings of ICE detention centers. Using a matched event study design, we estimate the effect of detention centers on the prominence and political slant of immigration in local discourse, individual immigration attitudes, voter turnout, and electoral polarization in affected counties."
+  job_market_paper: false
+  type: "work-in-progress"
+
+# Published Papers
+- title: "The Birth of Mass Unauthorized Immigration in the United States"
+  authors: ["Elizabeth U. Cascio", "Ethan G. Lewis", "Aryen Shrestha"]
+  year: 2026
+  status: "published"
+  venue: "AEA Papers and Proceedings"
+  volume: "116"
+  pages: "337–343"
+  pdf: ""
+  link: ""
+  abstract: ""
+  note: "Coverage in the New York Times"
+  job_market_paper: false
+  type: "published"
+
+- title: "On the Cost-Effectiveness of Nature-based Solutions for Reducing Disaster Risk"
+  authors: ["Marta Vicarelli", "Karen Sudmeier-Rieux", "Ali Alsadadi", "Simon Schutze", "Michael M. Kang", "Madeline Leue", "David Wasielewski", "Jaroslav Mysiak", "Aryen Shrestha"]
+  year: 2024
+  status: "published"
+  venue: "Science of the Total Environment"
+  volume: "947"
+  pages: "174524"
+  pdf: ""
+  link: "https://doi.org/10.1016/j.scitotenv.2024.174524"
+  abstract: ""
+  job_market_paper: false
+  type: "published"
+
+- title: "Climate Resilience in Coastal Massachusetts: A Survey of Municipal Challenges, Plans, and Needs"
+  authors: ["Marta Vicarelli", "Robert DeConto", "Darci Connor Maresca", "Yu Ya Htut Tin", "Madeline Leue", "Mathew Barlow", "Camille Barshers", "Andy Danylchuk", "Robert Darst", "Jynessa Dutka-Gianelli", "John Duff", "Gavin Fay", "Jill Fitzimmons", "James Heiss", "Kelly Hellman", "Paul Kirshen", "Katherine Kahl", "Elizabeth Infield", "Stratton Lloyd", "Sheree Pagsuyoin", "Meredith Rolfe", "Eric Thomas", "Iren Valova", "Aryen Shrestha"]
+  year: 2023
+  status: "published"
+  venue: "MassBenchmarks"
+  volume: "25"
+  pages: "2"
+  pdf: ""
+  link: ""
+  abstract: ""
+  job_market_paper: false
+  type: "published"

@@ -1,0 +1,7 @@
+{{ define "main" }}
+<article style="max-width:var(--max-width);margin:0 auto;padding:3rem 1.5rem;">
+  <h1 style="font-size:1.6rem;margin-bottom:0.5rem;">{{ .Title }}</h1>
+  {{ with .Date }}<p style="font-size:0.875rem;color:var(--color-text-muted);margin-bottom:2rem;">{{ .Format "January 2, 2006" }}</p>{{ end }}
+  <div class="bio">{{ .Content }}</div>
+</article>
+{{ end }}
